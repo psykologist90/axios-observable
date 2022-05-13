@@ -2,10 +2,10 @@
   "name": "axios-observable",
   "version": "1.4.0",
   "description": "make axios return Observable as opposed to Promise",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
-    "build": "./node_modules/.bin/tsc"
+    "build-no": "./node_modules/.bin/tsc"
   },
   "repository": {
     "type": "git",
